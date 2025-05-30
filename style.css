@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Lato', Arial, sans-serif;
   background-color: #ffffff;
   color: #333;
   line-height: 1.6;
@@ -130,4 +130,10 @@ footer {
   text-align: center;
   padding: 20px 0;
   font-size: 0.9em;
+}
+
+.hero h1,
+.how-it-works h2,
+.features h2 {
+  font-family: 'Rubik', Arial, sans-serif;
 }
